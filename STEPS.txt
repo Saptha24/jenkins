@@ -1,0 +1,12 @@
+STEP 1 DOWNLOAD AND EXTRACT ZIP
+STEP 2 OPEN CMD
+STEP 3    npm install --save @angular/core
+STEP 4 open Another CMD 
+       npm install -g json-server
+       then next command
+       json-server --watch db.json      (DONT CLOSE THIS CMD EVER)
+STEP 5 ng serve   (IN ANOTHER CMD AND THIS ONE AS WELL)
+
+THEN localhost:4200   enjoy
+
+IF BOOTSRAP IS NOT THERE THEN     npm install --save bootstrap
